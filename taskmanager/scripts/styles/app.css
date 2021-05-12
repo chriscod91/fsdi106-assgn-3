@@ -1,0 +1,37 @@
+body{
+    background-color: rgba(128, 128, 128, 0.336);
+}
+
+main{
+    display: flex;
+    background-image: url(https://lh3.googleusercontent.com/proxy/-32hZMsUiNc-1pe2HjCw1enbBJoAEqGS0W0QcYiXwU0glz84F0pN2MXTe35JuyJlNJfIrcrV2o7Cvli8YXKHFXd-pnT2CHNHxw-lKyTfpBYFswauYhHA2Sx0M7yN6ZMUocuH9gW8Zgo0NHMJ);
+    background-repeat: no-repeat;
+    max-width: max-content;
+   
+}
+
+#list{
+    flex: 2;
+    
+
+}
+
+#details{
+    flex: 1;
+    
+}
+
+.icon-fav{
+    font-size: 32px; 
+}
+
+.div-task{
+    margin: auto;
+    padding: 2rem;
+    border: 10px black;
+    
+}
+
+.h4{
+   padding-right: 50px;
+}
